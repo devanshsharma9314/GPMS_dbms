@@ -49,7 +49,7 @@ INSTALLED_APPS = [
 python3 manage.py runserver
 ```
 ---
-## Project Raodmap
+## Project Roadmap
 - Design of database according to requirement
 - noting all the mandatory functionalities to implement from ps
 - estimating how many pages required and design of those pages 
