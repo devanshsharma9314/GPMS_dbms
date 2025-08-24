@@ -1,4 +1,4 @@
-# Web-interface to a panchayat Databse 
+# Web-interface to a panchayat Database 
 
 ## Primary Setup
 Documentation Contains step we have followed in this project 
